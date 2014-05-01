@@ -1,0 +1,11 @@
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLibTest.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLibTest.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLibTest.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLib.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLib.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\bin\Debug\VBLib.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\obj\Debug\VBLibTest.vbprojResolveAssemblyReference.cache
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\obj\Debug\VBLibTest.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\obj\Debug\VBLibTest.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\Mvc5\VBHelloLibTest\obj\Debug\VBLibTest.pdb

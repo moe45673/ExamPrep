@@ -1,0 +1,64 @@
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\conParseJson.exe.config
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\conParseJson.exe
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\conParseJson.pdb
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\conParseJson.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.Resources.resources
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.vbproj.GenerateResource.Cache
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.exe
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.pdb
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\obj\Debug\conParseJson.vbprojResolveAssemblyReference.cache
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\mvcPerson.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\VBLib.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Optimization.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Mvc.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Owin.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\EntityFramework.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Razor.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\mvcPerson.pdb
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\mvcPerson.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\VBLib.pdb
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\VBLib.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Optimization.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Mvc.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\EntityFramework.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.Razor.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\conParseJson\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\conParseJson.exe.config
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\conParseJson.exe
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\conParseJson.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\conParseJson.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\VBLib.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\VBLib.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\VBLib.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.vbprojResolveAssemblyReference.cache
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.Resources.resources
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.vbproj.GenerateResource.Cache
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.exe
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\conParseJson\obj\Debug\conParseJson.pdb

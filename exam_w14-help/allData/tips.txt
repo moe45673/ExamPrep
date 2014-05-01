@@ -1,0 +1,29 @@
+For your AppDomain Models
+-----------------------------
+Create an object like Person or Trainer
+  - Let it have a property email
+  - a collection of specializations
+  - and a collection of companies
+
+This means Specialization and Companies are separate objects
+  - let them have a property Text (or Name)
+
+For your ViewModels
+-------------------
+- Create a Person/TrainerBase that has an email
+- Create a Trainer/PersonFull that has a collection of companies and a
+  collection of specializations 
+
+When parsing the JSON
+----------------------
+- do the seeding of the database after the identities have been created
+- read the JSON separately, after the JSON has been read check the status of the
+  Invalid flag to decide whether or not to seed the database with that value.
+
+To verify that the database should accept the record with your given business
+logic you can use grep on the given colon-delimited file which has the exact
+same data as the json.
+
+Check your email for updates to the example.
+
+Good luck and see you at the exam ;)

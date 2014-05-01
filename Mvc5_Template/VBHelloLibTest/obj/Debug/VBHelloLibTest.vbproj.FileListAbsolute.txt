@@ -1,0 +1,10 @@
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLibTest.dll
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLibTest.pdb
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLibTest.xml
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLib.dll
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLib.pdb
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\bin\Debug\VBHelloLib.xml
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\obj\Debug\VBHelloLibTest.dll
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\obj\Debug\VBHelloLibTest.xml
+C:\Users\mark.fernandes\Documents\Course Content\vba544\code\Week10_MVCApplication_w_DLL_and_Exceptions\VBHelloLibTest\obj\Debug\VBHelloLibTest.pdb

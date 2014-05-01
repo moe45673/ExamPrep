@@ -1,0 +1,21 @@
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\bin\Debug\VBLib.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\bin\Debug\VBLib.pdb
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\bin\Debug\VBLib.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\obj\Debug\VBLib.Resources.resources
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\obj\Debug\VBLib.vbproj.GenerateResource.Cache
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\obj\Debug\VBLib.dll
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\obj\Debug\VBLib.xml
+C:\Users\mark\Documents\Course Content\vba544\solutions\exam_w14\MvcPerson\VBLib\obj\Debug\VBLib.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\bin\Debug\VBLib.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\bin\Debug\VBLib.pdb
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\bin\Debug\VBLib.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.vbprojResolveAssemblyReference.cache
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.Resources.resources
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.vbproj.GenerateResource.Cache
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.dll
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.xml
+C:\Users\Moe\Copy\VBA544\ExamPrep\exam_w14-help\VBLib\obj\Debug\VBLib.pdb
