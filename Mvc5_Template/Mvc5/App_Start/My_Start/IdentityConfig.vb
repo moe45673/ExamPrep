@@ -9,6 +9,7 @@ Imports System.Linq
 Imports System.Threading
 Imports System.Threading.Tasks
 Imports System.Web
+Imports System.Web.Hosting
 
 
 'Public Module IdentityConfig
@@ -110,13 +111,13 @@ Public Class MyDbInitializer
 
     Dim jsonFile As String
 
-    Sub New(Optional jf As String = "")
+    Sub New(Optional jf As String = "~\App_Data\messages.json")
         '' left this here to demonstrate how I debugged unit testing issues
         'Using sw = New IO.StreamWriter("logFile.txt", False)
         '    sw.WriteLine("New: Before all initializing")
         'End Using
 
-        jsonFile = jf
+        jsonFile = HostingEnvironment.MapPath(jf)
     End Sub
 
 End Class

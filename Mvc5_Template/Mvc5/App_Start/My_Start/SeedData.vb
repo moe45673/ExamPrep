@@ -17,7 +17,7 @@ Imports VBLib
 Public Class SeedData
 
     Public Sub InitializeDbWithValues(context As DataContext)
-        Dim how2Seed = "VALUES"       '* controls how
+        Dim how2Seed = "ALUES"       '* controls how
 
         '' left this here to demonstrate how I debugged unit testing issues
         'Using sw = New IO.StreamWriter("logFile.txt", True)
