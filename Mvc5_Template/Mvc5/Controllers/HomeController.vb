@@ -17,8 +17,7 @@ Public Class HomeController
     End Function
 
     Function About() As ActionResult
-        ViewData("Name") = "Moshe Tenenbaum"
-        ViewData("Student ID") = "041214115"
+        ViewData("Message") = "Built by Mark Fernandes."
 
         Return View()
     End Function

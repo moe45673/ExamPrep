@@ -9,6 +9,6 @@ End Code
 <p>From here, you can navigate to...</p>
 
 <ul>
-    <li><a href= "Person/">Persons</a></li>
+    <li><a href= "Message/">Messages</a></li>
 </ul>
 

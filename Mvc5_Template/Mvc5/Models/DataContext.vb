@@ -18,10 +18,6 @@ Namespace MyModels
         Public Overridable Property Messages As IDbSet(Of Adapters.Message)
         Public Overridable Property Translations As IDbSet(Of Adapters.Translation)
 
-        Public Overridable Property Persons As IDbSet(Of Adapters.Person)
-        Public Overridable Property Companies As IDbSet(Of Adapters.Company)
-        Public Overridable Property Specializations As IDbSet(Of Adapters.Specialization)
-
         '* -- MF: added
         Protected Shadows Sub OnModelCreating(modelBuilder As DbModelBuilder)
 

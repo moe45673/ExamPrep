@@ -18,7 +18,7 @@ Imports Mvc5
     '* called before and after each and every test
     <TestInitialize()> Public Sub Initialize()
         ' Arrange
-        controller = New Mvc5.PersonController
+        controller = New Mvc5.MessageController
     End Sub
 
     <TestMethod()> Public Sub Controller_Message_Index()
@@ -46,12 +46,12 @@ Imports Mvc5
     <TestMethod()> Public Sub Controller_Message_Create_Valid()
 
         ' Arrange: prepare a valid message to simulate a reply back to Create (POST)
-        Dim validMessage = New ViewModels.PersonForHttpPost
+        Dim validMessage = New ViewModels.MessageForHttpPost
 
-        validMessage.Name = "Test_Message"
-        validMessage.Email = "Translation"
-        validMessage.CompanyId = Convert.ToString(VBLib.MessageStatus.PUBLISHED)
-        validMessage.SpecializationId = 2
+        validMessage.Text = "Test_Message"
+        validMessage.TranslationText = "Translation"
+        validMessage.StatusId = Convert.ToString(VBLib.MessageStatus.PUBLISHED)
+        validMessage.LanguageId = 2
 
         ' Act: add it to the database via Create POST
         Dim result = controller.Create(validMessage)
@@ -59,26 +59,26 @@ Imports Mvc5
 
         ' Now locate that Message Id using repo (we could have guessed too but this
         ' way its more stable)
-        Dim rm = New ViewModels.Managers.RepoPerson
-        Dim temp = rm.GetPersonFull(validMessage.Name)
+        Dim rm = New ViewModels.Managers.RepoMessage
+        Dim temp = rm.GetMessageFull(validMessage.Text)
 
         ' Assert: verify db values match what we passed in
         Dim vr = DirectCast(controller.Details(temp.Id), ViewResult)
-        Dim createdMessage = DirectCast(vr.Model, ViewModels.PersonFull)
+        Dim createdMessage = DirectCast(vr.Model, ViewModels.MessageFull)
 
-        Assert.AreEqual(createdMessage.Name, validMessage.Name)
-        Assert.AreEqual(createdMessage.Companies(0).Id, validMessage.CompanyId)
+        Assert.AreEqual(createdMessage.Text, validMessage.Text)
+        Assert.AreEqual(createdMessage.Translations(0).Text, validMessage.TranslationText)
 
     End Sub
     <TestMethod()> Public Sub Controller_Message_Create_Invalid()
 
         ' Arrange: prepare an invalid message to simulate an VBLib DLL exception  Create (POST)
-        Dim invalidMessage = New ViewModels.PersonForHttpPost
+        Dim invalidMessage = New ViewModels.MessageForHttpPost
 
-        invalidMessage.Name = "INVALID DATA"
-        invalidMessage.Email = "Translation"
-        invalidMessage.CompanyId = Convert.ToString(VBLib.MessageStatus.PUBLISHED)
-        invalidMessage.SpecializationId = 2
+        invalidMessage.Text = "INVALID DATA"
+        invalidMessage.TranslationText = "Translation"
+        invalidMessage.StatusId = Convert.ToString(VBLib.MessageStatus.PUBLISHED)
+        invalidMessage.LanguageId = 2
 
         ' Act: attempt to add it to the database via Create POST
         Dim result As ViewResult = DirectCast(controller.Create(invalidMessage), ViewResult)
@@ -87,13 +87,13 @@ Imports Mvc5
         Assert.IsNotNull(result)
 
         ' Assert: verify Model in that viewresult is of type MessageForHttpGet
-        Dim vr = DirectCast(result.Model, ViewModels.PersonForHttpGet)
+        Dim vr = DirectCast(result.Model, ViewModels.MessageForHttpGet)
         Assert.IsNotNull(vr)
 
     End Sub
 
 
-    Dim controller As Mvc5.PersonController
+    Dim controller As Mvc5.MessageController
     Dim testMessage As MyModels.Adapters.Message
 
 End Class

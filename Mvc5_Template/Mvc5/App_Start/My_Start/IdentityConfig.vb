@@ -110,13 +110,13 @@ Public Class MyDbInitializer
 
     Dim jsonFile As String
 
-    Sub New(Optional jf As String = "~/App_Data/indented_dpsvba-w14.json")
+    Sub New(Optional jf As String = "")
         '' left this here to demonstrate how I debugged unit testing issues
         'Using sw = New IO.StreamWriter("logFile.txt", False)
         '    sw.WriteLine("New: Before all initializing")
         'End Using
 
-        jsonFile = HttpContext.Current.Server.MapPath(jf)
+        jsonFile = jf
     End Sub
 
 End Class
